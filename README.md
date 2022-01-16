@@ -13,12 +13,12 @@ In this task I had to calculate the derivative of different functions
 ***Task 4.***
 In this assignment I needed to write a function for approximate calculation of the derivative of a function of one variable, and then check the resulting answer with the result of the code below.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/32c43b17-0ce0-4257-9502-763c64d79fdf/Untitled.png)
+![изображение](https://user-images.githubusercontent.com/78569587/149674936-5489c394-e657-4970-9021-5e4fc3c7e295.png)
 
 *Task 5.*
 Search for the minimum of functions using gradient descent and a visual representation of it.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e639d357-5499-40df-90d6-fb883a354eac/Untitled.png)
+![изображение](https://user-images.githubusercontent.com/78569587/149674952-5b9bacc4-090e-453e-96e2-64a4a713fecd.png)
 
 *Task 6.*
 
