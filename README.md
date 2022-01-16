@@ -13,7 +13,7 @@ In this task I had to calculate the derivative of different functions
 ***Task 4.***
 In this assignment I needed to write a function for approximate calculation of the derivative of a function of one variable, and then check the resulting answer with the result of the code below.
 
-![изображение](https://user-images.githubusercontent.com/78569587/149674936-5489c394-e657-4970-9021-5e4fc3c7e295.png)
+![изображение](https://user-images.githubusercontent.com/78569587/149675078-c067ee9e-42e3-4841-93c9-d0d287761017.png)
 
 *Task 5.*
 Search for the minimum of functions using gradient descent and a visual representation of it.
@@ -24,7 +24,7 @@ Search for the minimum of functions using gradient descent and a visual represen
 
 Search for a global minimum for each function.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/08218243-6535-49a1-9a49-e7543ad4df1f/Untitled.png)
+![изображение](https://user-images.githubusercontent.com/78569587/149675090-d1fbf33a-7752-4eaa-b8f3-bd4ddb45956e.png)
 
 *Tasks 7-8.*
 Calculate function gradients using code.
@@ -46,7 +46,7 @@ Steps:
 
 1. **I applied “ResNet18”. I've unfrozen last convolutional block and built new classifier layer**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aea390f9-65e1-48dc-8831-deb3689c35d6/Untitled.png)
+![изображение](https://user-images.githubusercontent.com/78569587/149675106-010f4e8f-0008-4357-943a-02b788bf174e.png)
 
 1. **I made some augmentantions(such as crop, random zoom, random rotation etc.)**
 2. **I used Imbalanced dataset processing (WeightedRandomSampler)**
@@ -216,7 +216,7 @@ def test_activation_function(activation):
 
 At the end of the notebook, it was necessary to work with CNN and change the original picture:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c809d30c-8425-4436-9851-1d11fc5d5637/Untitled.png)
+![изображение](https://user-images.githubusercontent.com/78569587/149675113-a9830ce3-5be4-4024-8902-2aeeb7aed8e3.png)
 
 I realized this:
 
@@ -245,7 +245,7 @@ plt.show()
 
 And that's what happened:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ee53485-e20e-44a5-aa5b-43a9cf9956be/Untitled.png)
+![изображение](https://user-images.githubusercontent.com/78569587/149675129-75a1c70e-490a-4dbd-9b1f-268d42cc96da.png)
 
 At the very end of the file I needed to implement LeNet:
 
@@ -319,9 +319,9 @@ data.hist(column=num_cols, figsize=(15, 15), bins = 10)
 plt.show()
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79736abe-1706-4c1e-8de5-f1123a2462fe/Untitled.png)
+![изображение](https://user-images.githubusercontent.com/78569587/149675153-40bff162-84e4-461f-8693-3944bbd639db.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5cfb4974-ea27-4f4d-bfdc-2ead1d5f3799/Untitled.png)
+![изображение](https://user-images.githubusercontent.com/78569587/149675160-8bbecd10-7e83-4965-aa1c-07114aec9ef1.png)
 
 1. Application of linear models -
 3.1. I processed the data so that Logistic Regression could be applied to it (I normalized numerical features, and encoded categorical ones using one-hot-encoding)
